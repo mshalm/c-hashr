@@ -9,7 +9,9 @@ Libraries
 =====
 
 Alexander Peslyak's C implementation of MD5
+
 libcurl 3, as well as self-produced example code
+
 json-c, as well as self-produced example code
 
 Build
